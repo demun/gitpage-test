@@ -22,3 +22,5 @@ git push origin gh-pages
 아래페이지로 이동하면 볼수 있다.
 
 https://아이디.github.io/저장소이름/
+
+해당저장소의 이름이 gitpage-test 이므로 [https://demun.github.io/gitpage-test/](https://demun.github.io/gitpage-test/) 로 볼수 있다.
